@@ -1,0 +1,28 @@
+{
+  "streams": [
+    {
+      "id": 1,
+      "title": "My First Stream",
+      "description": "My First Stream",
+      "userID": "124646879"
+    },
+    {
+      "id": 2,
+      "title": "My second stream",
+      "description": "My second stream",
+      "userID": "124646879"
+    },
+    {
+      "id": 3,
+      "title": "My third stream",
+      "description": "My third stream",
+      "userID": "124646879"
+    },
+    {
+      "id": 4,
+      "title": "Game stream",
+      "description": "best game ever!",
+      "userID": "109601574974522528910"
+    }
+  ]
+}
